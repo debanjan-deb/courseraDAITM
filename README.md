@@ -8,3 +8,5 @@ MODULE 2 SOLUTON - https://debanjan-deb.github.io/courseraDAITM/sol_of_mod2/inde
 MODULE 3 SOLUTION - https://debanjan-deb.github.io/courseraDAITM/solutionMODULE3/index.html
 
 MODULE 4 SOLUTION - https://debanjan-deb.github.io/courseraDAITM/mod4_solution/index.html
+
+MODULE 5 SOLUTION - https://debanjan-deb.github.io/courseraDAITM/MOD5_SOL/index.html
